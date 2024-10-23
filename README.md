@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Giulia Albuquerque
 
-- 🌱 Atualmente eu estou apredendo a Linguagem Java
+- 🌱 Atualmente eu estou aprendendo a Linguagem Java
 - 😄 Pronouns: Ela/Dela
 <div>
   <a href = "https://github.com/giualbuq">
