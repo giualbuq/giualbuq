@@ -1,28 +1,37 @@
-## Olá! Eu sou a Giulia Albuquerque
+<h1 align="center">Hi, I'm Giulia Albuquerque!💻</h1>
 
-- 🌱 Atualmente eu estou aprendendo a Linguagem Java
-- 😄 Pronouns: Ela/Dela
+## About Me :wave:
+
+Hey there! 💜 My name is Giulia. I'm a 19-year-old and currently reside in Sorocaba, São Paulo - Brasil. I am a computer engineering student at Facens Sorocaba.
+
+I’m passionate about technology and always seeking new challenges and opportunities to grow my skills, especially in software development.
+
+ ## My Skills
+
+ **Applications**
+ 
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
+
+**Developer Tools**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+
+**Contact Me**
+
+[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/giualbuq)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-fernanda-albuquerque-da-silva-39024026a/)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/giiuliaff/)
+
+**GitHub Stats**
+
 <div>
   <a href = "https://github.com/giualbuq">
     <img width="42%" src="https://github-readme-stats.vercel.app/api?username=giualbuq&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giualbuq&layout=compact&langs_count=16&theme=dark">
 </div>
-
-<div style="display: inline_block"><br>
-        
-  <img align="center" alt="Giu-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img align="center" alt="Giu-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Giu-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img align="center" alt="Giu-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  
-</div>
-
-##
-<div> 
-  <a href="https://instagram.com/giiuliaff" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:giulia.albsilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/giulia-fernanda-albuquerque-da-silva-39024026a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-  
 
