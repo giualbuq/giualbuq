@@ -38,7 +38,12 @@ I’m passionate about technology and always seeking new challenges and opportun
 **GitHub Stats**
 
 <div>
-  <a href = "https://github.com/giualbuq">
-    <img width="42%" src="https://github-readme-stats.vercel.app/api?username=giualbuq&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+  <a href="https://github.com/giualbuq">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api?username=giualbuq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/giualbuq">
+    <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giualbuq&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
+
 
