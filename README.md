@@ -6,7 +6,6 @@ Hey there! 💜 My name is Giulia. I am a computer engineering student at Facens
 
 I’m passionate about technology and always seeking new challenges and opportunities to grow my skills, especially in software development.
 
-✨ Check out my portfolio: [Giulia Silva](https://giulia-albuquerque.vercel.app/)
 
  ## My Skills
 
