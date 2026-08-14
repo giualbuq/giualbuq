@@ -34,15 +34,12 @@ I’m passionate about technology and always seeking new challenges and opportun
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-fernanda-albuquerque-da-silva-39024026a/)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/giiuliaff/)
 
-**GitHub Stats**
 
-<div>
-  <a href="https://github.com/giualbuq">
-    <img height="130em"  src="https://github-readme-stats.vercel.app/api?username=giualbuq&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/giualbuq">
-    <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=giualbuq&layout=compact&langs_count=7&theme=dark"/>
-  </a>
+<h2>GitHub</h2>
+
+<div align="center">
+
+<img height="160" src="https://streak-stats.demolab.com?user=giualbuq&theme=dark&hide_border=true" />
+
 </div>
-
 
