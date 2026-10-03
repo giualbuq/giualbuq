@@ -20,6 +20,15 @@ At work, I build automation and AI solutions in the Microsoft ecosystem, integra
   <img src="./assets/stack.svg?v=2" alt="Tech stack" />
 </div>
 
+## 🚀 Currently
+
+- 🔭 Building interfaces with **React** and **TypeScript**
+- 🧩 Creating reusable components and responsive layouts with **HTML** and **CSS**
+- 🔌 Integrating front-end projects with **REST APIs**
+- 🎨 Turning **Figma** designs into code
+- 🌱 Deepening my knowledge of **front-end architecture and best practices**
+- 💬 Ask me about **React, TypeScript or JavaScript**
+
 ## 📊 GitHub Stats
 
 <div align="center">
