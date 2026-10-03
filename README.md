@@ -1,45 +1,58 @@
-<h1 align="center">Hi, I'm Giulia Albuquerque!💻</h1>
-
-## About Me :wave:
-
-Hey there! 💜 My name is Giulia. I am a computer engineering student at Facens Sorocaba.
-
-I’m passionate about technology and always seeking new challenges and opportunities to grow my skills, especially in software development.
-
-
- ## My Skills
-
- **Applications**
- 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Power Platform](https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=powerapps&logoColor=white)
-![SharePoint](https://img.shields.io/badge/SharePoint-0078d7?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-
-**Developer Tools**
-
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-**Contact Me**
-
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/giualbuq)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/giulia-fernanda-albuquerque-da-silva-39024026a/)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/giiuliaff/)
-
-
-<h2>GitHub</h2>
+<h1 align="center">Hi, I'm Giulia Silva 💜</h1>
 
 <div align="center">
 
-<img height="160" src="https://streak-stats.demolab.com?user=giualbuq&theme=dark&hide_border=true" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1500&color=A855F7&center=true&vCenter=true&width=520&lines=React+%C2%B7+TypeScript+%C2%B7+JavaScript" alt="React · TypeScript · JavaScript" />
 
 </div>
 
+## 💜 About Me
+
+I'm a software development intern at **K2M Soluções** and a Computer Engineering student at **Facens** (Sorocaba, Brazil).
+
+At work, I build automation and AI solutions in the Microsoft ecosystem, integrate systems through **REST APIs** and **Dynamics 365**, and work directly with clients on requirements and alignment. I'm also specializing in **front-end development**, building projects with **React** and **TypeScript**.
+
+🎓 Computer Engineering @ Facens (2023 – 2027) &nbsp;·&nbsp; 🌎 English: advanced
+
+## 🛠️ Tech Stack
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" alt="React" title="React" /><br><sub><b>React</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=ts&theme=dark" width="48" alt="TypeScript" title="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" alt="JavaScript" title="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" alt="HTML5" title="HTML5" /><br><sub><b>HTML5</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" alt="CSS3" title="CSS3" /><br><sub><b>CSS3</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" alt="Java" title="Java" /><br><sub><b>Java</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" alt="Python" title="Python" /><br><sub><b>Python</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" alt="C" title="C" /><br><sub><b>C</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" alt="Git" title="Git" /><br><sub><b>Git</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" title="GitHub" /><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" alt="VS Code" title="VS Code" /><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" alt="Figma" title="Figma" /><br><sub><b>Figma</b></sub></td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <b>Microsoft ecosystem:</b> Power Platform · Dynamics 365 (CRM) · Copilot Studio · SharePoint Online · SPFx<br>
+  <b>Data:</b> SQL · Machine Learning basics with Python &nbsp;|&nbsp; <b>Methodologies:</b> Scrum
+</p>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giualbuq&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0a10&title_color=A855F7" />
+  <img height="165" src="https://streak-stats.demolab.com?user=giualbuq&theme=tokyonight&hide_border=true&background=0b0a10&ring=9333EA&fire=A855F7&currStreakLabel=A855F7" />
+</div>
+
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://giulia-albuquerque.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-9333EA?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/giuliafalbuquerque"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:giulia.albsilva@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
