@@ -17,7 +17,7 @@ At work, I build automation and AI solutions in the Microsoft ecosystem, integra
 ## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="./assets/stack.svg" alt="Tech stack: React, TypeScript, JavaScript, HTML5, CSS3, Java, Python, C, SQL, Machine Learning basics, Power Platform, Dynamics 365, Copilot Studio, SharePoint/SPFx, Git, GitHub, VS Code, Figma, Scrum" />
+  <img src="./assets/stack.svg?v=2" alt="Tech stack" />
 </div>
 
 ## 📊 GitHub Stats
